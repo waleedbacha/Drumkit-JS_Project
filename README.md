@@ -1,0 +1,2 @@
+Drumkit JS Project
+This is a simple yet fun JavaScript project where you can play different drum sounds either by clicking the on-screen buttons or by pressing specific keys on your keyboard. Each button is mapped to a unique drum sound, creating an interactive and engaging musical experience. The project is built using HTML, CSS, and JavaScript, and is a great example of handling DOM events, audio playback, and responsive user interaction.
